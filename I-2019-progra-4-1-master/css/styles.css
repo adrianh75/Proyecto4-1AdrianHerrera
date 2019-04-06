@@ -16,7 +16,7 @@ body {
     box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.3);
     position: relative;
     border-radius: 20px;
-    
+    background-color: white;
     
 }
 
@@ -59,6 +59,10 @@ margin-bottom: 20px;
     background-color: rgba(0, 0, 0, 0.7);
     text-align: left;
     padding: 30px;
+}
+
+body{
+    background: url(../imagenes/799035.jpg) repeat 0 0; 
 }
 
 
